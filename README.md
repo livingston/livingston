@@ -1,6 +1,6 @@
-### Hey 👋🏽, I'm [Livingston!](https://livi.co)
+## Hey 👋🏽, I'm [Livingston](https://livi.co)!
 
-<br/>
+---
 
 <a href="https://twitter.com/delivi">
   <img align="left" alt="Livingston Samuel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-### Languages and Tools:
+## Languages and Tools:
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
@@ -46,14 +46,16 @@
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p>
 
-### Stats:
+## Stats:
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=livingston&show_icons=true&include_all_commits=true&hide_border=true&line_height=27" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livingston&hide_border=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livingston&hide_border=true" />
 </p>
 
+<p align="left">
 <img src="https://badges.pufler.dev/years/livingston" />
 <img src="https://badges.pufler.dev/repos/livingston" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=livingston&style=flat-square)
