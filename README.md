@@ -1,4 +1,5 @@
-## Hey 👋🏽, I'm [Livingston](https://livi.co)!
+<h1 align="center"> Hey 👋🏽, I'm <a href="https://livi.co">Livingston</a>!<h1>
+<h4 align="center">Front-end Engineer at <a href="https://www.thoughtworks.com/">Thoughtworks</a></h4>
 
 ---
 
@@ -46,12 +47,9 @@
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p>
 
-## Stats:
-
-<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=livingston&show_icons=true&include_all_commits=true&hide_border=true&line_height=27" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livingston&hide_border=true" />
-</p>
 
 <p align="left">
 <img src="https://badges.pufler.dev/years/livingston" />
