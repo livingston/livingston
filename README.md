@@ -61,9 +61,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livingston&hide_border=true" />
 
-<p align="left">
-<img src="https://badges.pufler.dev/years/livingston" />
-<img src="https://badges.pufler.dev/repos/livingston" />
-</p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=livingston&style=flat-square)
