@@ -57,8 +57,7 @@
 
 
 <h2>Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=livingston&show_icons=true&include_all_commits=true&hide_border=true&line_height=27" />
+<img src="https://github-readme-stats.vercel.app/api?username=livingston&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&line_height=27" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livingston&hide_border=true" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=livingston&style=flat-square)
