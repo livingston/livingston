@@ -5,19 +5,19 @@
 <br/>
 
 <a href="https://twitter.com/delivi">
-  <img align="left" alt="Livingston Samuel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Livingston Samuel | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 <a href="https://www.linkedin.com/in/delivi/">
-  <img align="left" alt="Livingston's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Livingston's LinkedIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
 <a href="https://codesandbox.io/u/livingston">
-  <img align="left" alt="Livingston's CodeSandbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" />
+  <img align="left" alt="Livingston's CodeSandbox" width="22px" src="https://pbs.twimg.com/profile_images/1171375829382774784/70ZgE-ke_400x400.png" />
 </a>
 <a href="https://codepen.io/livingston">
-  <img align="left" alt="Livingston's CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+  <img align="left" alt="Livingston's CodePen" width="22px" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" />
 </a>
 <a href="https://keybase.io/livingston">
-  <img align="left" alt="Livingston's Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />
+  <img align="left" alt="Livingston's Keybase" width="22px" src="https://www.vectorlogo.zone/logos/keybase/keybase-tile.svg" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 <h2>Languages and Tools:</h2>
 
 <p align="left">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+	<a href="#javascript"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -58,6 +58,9 @@
 
 <h2>Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=livingston&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&line_height=27" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livingston&theme=gotham&hide_border=true" />
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=livingston&style=flat-square)
