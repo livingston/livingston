@@ -58,8 +58,6 @@
 
 
 <h2>Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=livingston&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&line_height=27" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livingston&theme=gotham&hide_border=true" />
 
 
