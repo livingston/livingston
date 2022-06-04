@@ -11,7 +11,7 @@
   <img align="left" alt="Livingston's LinkedIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
 <a href="https://codesandbox.io/u/livingston">
-  <img align="left" alt="Livingston's CodeSandbox" width="22px" src="https://pbs.twimg.com/profile_images/1494320894939860994/2iqi6zZY_400x400.jpg" />
+  <img align="left" alt="Livingston's CodeSandbox" width="22px" src="https://codesandbox.io/apple-touch-icon-180x180.png" />
 </a>
 <a href="https://codepen.io/livingston">
   <img align="left" alt="Livingston's CodePen" width="22px" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" />
