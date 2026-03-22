@@ -1,5 +1,5 @@
 <h1 align="center"> Hey 👋🏽, I'm <a href="https://livi.co">Livingston</a>!</h1>
-<h4 align="center">Front-end Engineer at <a href="https://www.thoughtworks.com/">Thoughtworks</a></h4>
+<h4 align="center">Front-end Engineer at $\textbf{\color{#902a2c}{IDFC First}}$</h4>
 
 <br/>
 <br/>
