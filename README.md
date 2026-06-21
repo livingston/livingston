@@ -2,10 +2,6 @@
 <h3 align="center">Front-end Engineer at IDFC First</h3>
 
 <p align="center">
-  Building fast, accessible, delightful interfaces for the web — and the occasional data viz, side project, and open-source experiment.
-</p>
-
-<p align="center">
   <a href="https://livi.co">
     <img alt="Website" src="https://img.shields.io/badge/Website-livi.co-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
