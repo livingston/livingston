@@ -93,8 +93,6 @@
   <tr>
     <td align="right"><b>Design</b></td>
     <td>
-      <a href="#illustrator" title="Adobe Illustrator"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="36" height="36"/></a>&nbsp;
-      <a href="#photoshop" title="Adobe Photoshop"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="36" height="36"/></a>&nbsp;
       <a href="#figma" title="Figma"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="36" height="36"/></a>&nbsp;
       <a href="#sketch" title="Sketch"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" alt="Sketch" width="36" height="36"/></a>&nbsp;
       <a href="#vscode" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36"/></a>
