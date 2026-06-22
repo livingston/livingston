@@ -65,7 +65,7 @@
       <a href="#express" title="Express"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/white"/><img src="https://cdn.simpleicons.org/express/black" alt="Express" width="36" height="36"/></picture></a>&nbsp;
       <a href="#fastify" title="Fastify"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastify/white"/><img src="https://cdn.simpleicons.org/fastify/black" alt="Fastify" width="36" height="36"/></picture></a>&nbsp;
       <a href="#nginx" title="nginx"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="36" height="36"/></a>&nbsp;
-      <a href="#caddy" title="Caddy"><img src="https://cdn.simpleicons.org/caddy" alt="Caddy" width="36" height="36"/></a>
+      <a href="#caddy" title="Caddy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/caddy/white"/><img src="https://cdn.simpleicons.org/caddy/black" alt="Caddy" width="36" height="36"/></picture></a>
     </td>
   </tr>
   <tr>
